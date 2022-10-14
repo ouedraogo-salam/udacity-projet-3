@@ -1,5 +1,8 @@
 # **<center><span style="color:#fd7b12;">Part I - Prosper Loan Data Exploration</span></center>**
+
+
 ## by OUEDRAOGO Salam
+
 
 ## Dataset
 
@@ -15,6 +18,6 @@ En dehors de la variable cible, l’exploration des relations entre les différe
 
 ## Key Insights for Presentation
 
-> Pour la présentation, je vais beaucoup m’appesantir sur l’effet des sources de revenue sur la capacité de remboursement du prêt. Pour ce faire, je vais d’abord introduire les différentes sources de revenue avec des visualisation.  
+> Pour la présentation, je vais beaucoup m’appesantir sur l’effet des sources de revenue sur la capacité de remboursement du prêt. Pour ce faire, je vais d’abord introduire les différentes sources de revenue avec des visualisations.  
 > 
 > Puis Je vais utiliser les diagrammes en barres pour montrer la relation entre la source de revenues et le paiement des prêts ainsi que la durée de remboursement. 
