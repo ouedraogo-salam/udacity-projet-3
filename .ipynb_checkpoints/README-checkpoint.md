@@ -1,10 +1,9 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
+# **<center><span style="color:#fd7b12;">Part I - Prosper Loan Data Exploration</span></center>**
+## by OUEDRAOGO Salam
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+>Prosper est une société basée à San Francisco, en Californie, dans le secteur des prêts à des particuliers en ligne. Cet ensemble de données est extrais des données de Prosper. Il est constitué d’environ 113,937 prêts et 81 variables, y compris le montant du prêt, le taux de l'emprunteur (ou taux d'intérêt), le statut actuel du prêt, le revenu de l'emprunteur, et bien d'autres.
 
 
 ## Summary of Findings
